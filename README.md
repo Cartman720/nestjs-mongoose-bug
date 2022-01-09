@@ -72,6 +72,6 @@ Commands for reproduction
 
 **Run `npm start` to see behavior of `@nestjs/mongoose`.**
 
-**Run `npm run mongoose` to see behavior of expected behavior (plain `mongoose`).**
+**Run `npm run mongoose` to see expected behavior (plain `mongoose`).**
 
 
